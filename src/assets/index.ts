@@ -31,6 +31,7 @@ import zentra from "./company/zentra.png";
 
 import herobg from "./herobg.png";
 import hathu from "./hathu.png";
+import logo from "./logo.png";
 
 export {
   backend,
@@ -62,5 +63,6 @@ export {
   spring,
   java,
   vite,
-  next
+  next,
+  logo
 };

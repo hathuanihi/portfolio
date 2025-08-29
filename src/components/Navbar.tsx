@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { styles } from "./styles";
 import { navLinks } from "../constants";
+import { logo } from "../assets";
 
 const Navbar = () => {
     const [active, setActive] = useState("");
@@ -44,14 +45,24 @@ const Navbar = () => {
             isVisible ? "translate-y-0" : "-translate-y-full"
         }`}>
             <div className="w-full flex justify-between items-center max-w-7xl mx-auto">
-                <div className="text-white font-bold text-lg">
+                <div className="flex items-center">
                     <a 
-                        className="cursor-pointer text-[#915EFF]"
+                        className="cursor-pointer flex items-center gap-0 hover:scale-105 transition-transform duration-300"
                         href="#home" onClick={() => {
                         setActive("");
                         window.scrollTo(0, 0);
-                    }}>HaThu</a>
+                    }}>
+                        <img 
+                            src={logo} 
+                            alt="HaThu Logo" 
+                            className="w-12 h-12"
+                        />
+                        <span className="text-white font-bold text-xl tracking-wider">
+                            HATHU
+                        </span>
+                    </a>
                 </div>
+
                 <ul className='list-none hidden sm:flex flex-row gap-10'>
                     {navLinks.map((nav) => (
                         <li
