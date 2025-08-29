@@ -34,7 +34,7 @@ const Hero = () => {
             <p className={`${styles.heroSubText} mt-2 text-white-100`}>
               <TypeAnimation
                 sequence={[
-                  'I’m a Fullstack Developer with experience in Web and Mobile Development, focused on building efficient, scalable, and user-friendly applications.',
+                  'I’m a Fullstack Developer with experience in Web and Mobile Development, currently a 3rd-year student at the University of Information Technology - VNUHCM, focused on building efficient, scalable, and user-friendly applications.'
                 ]}
                 wrapper="span"
                 speed={90}
