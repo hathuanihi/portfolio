@@ -3,16 +3,16 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://hathu-portfolio.vercel.app)
 [![Repository](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/hathuanihi/portfolio)
 
-![Project Screenshot](https://i.imgur.com/uU8g5B8.png) 
-[cite_start]Đây là website portfolio cá nhân của tôi, được xây dựng để giới thiệu các dự án, kỹ năng và kinh nghiệm của bản thân[cite: 97]. [cite_start]Trang web được thiết kế với giao diện hiện đại, tương tác và hoàn toàn đáp ứng (responsive) trên cả thiết bị máy tính và di động[cite: 97].
+![Project Screenshot](<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/1880adee-23f5-4fe8-bc87-bac0607f563e" />) 
+Đây là website portfolio cá nhân của tôi, được xây dựng để giới thiệu các dự án, kỹ năng và kinh nghiệm của bản thân. Trang web được thiết kế với giao diện hiện đại, tương tác và hoàn toàn đáp ứng (responsive) trên cả thiết bị máy tính và di động.
 
 ## ✨ Các tính năng nổi bật
 
-- [cite_start]**Mô hình 3D tương tác:** Xây dựng với **Three.js** để tạo ra trải nghiệm người dùng sống động và hấp dẫn[cite: 101].
-- [cite_start]**Trưng bày dự án:** Một khu vực riêng để hiển thị các dự án nổi bật của tôi, kèm theo liên kết đến mã nguồn và demo trực tiếp[cite: 99].
-- [cite_start]**Dòng thời gian kinh nghiệm:** Trình bày quá trình học tập và kinh nghiệm làm việc một cách trực quan[cite: 99].
-- [cite_start]**Thiết kế Responsive:** Giao diện được tối ưu hóa để hiển thị mượt mà trên mọi kích thước màn hình[cite: 97].
-- [cite_start]**Biểu mẫu liên hệ:** Tích hợp với **EmailJS** để mọi người có thể liên hệ trực tiếp một cách dễ dàng và nhanh chóng[cite: 99, 101].
+- **Mô hình 3D tương tác:** Xây dựng với **Three.js** để tạo ra trải nghiệm người dùng sống động và hấp dẫn.
+- **Trưng bày dự án:** Một khu vực riêng để hiển thị các dự án nổi bật của tôi, kèm theo liên kết đến mã nguồn và demo trực tiếp.
+- **Dòng thời gian kinh nghiệm:** Trình bày quá trình học tập và kinh nghiệm làm việc một cách trực quan.
+- **Thiết kế Responsive:** Giao diện được tối ưu hóa để hiển thị mượt mà trên mọi kích thước màn hình.
+- **Biểu mẫu liên hệ:** Tích hợp với **EmailJS** để mọi người có thể liên hệ trực tiếp một cách dễ dàng và nhanh chóng.
 
 ## 🛠️ Công nghệ sử dụng
 
