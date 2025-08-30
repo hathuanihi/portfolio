@@ -3,7 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://hathu-portfolio.vercel.app)
 [![Repository](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/hathuanihi/portfolio)
 
-![Project Screenshot](<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/1880adee-23f5-4fe8-bc87-bac0607f563e" />) 
+![Project Screenshot](./Screenshot 2025-08-28 181446.png) 
 Đây là website portfolio cá nhân của tôi, được xây dựng để giới thiệu các dự án, kỹ năng và kinh nghiệm của bản thân. Trang web được thiết kế với giao diện hiện đại, tương tác và hoàn toàn đáp ứng (responsive) trên cả thiết bị máy tính và di động.
 
 ## ✨ Các tính năng nổi bật
